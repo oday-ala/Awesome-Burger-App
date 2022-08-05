@@ -1,12 +1,12 @@
-# Awesome Burgre
+# Awesome Burger
 
-## A Burgre Website using React js and Firebase
+## A Burger Website using React js and Firebase
 
 ### Features:
 
 - Beautiful UI.
 - Advanced react-js components.
-- Oreder Burgres.
+- Oreder Burgers.
 
 ## Simple to get started
 
